@@ -48,8 +48,8 @@ Menus:
       weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Web Portfolio"
+  description: Welcome to my web portfolio. I am a passionate data scientist and economist. I tend to make data more valuable by using my ecmomist knowledge and machine learning skill. I belive that in 21st century data is the most valuable and it can change the world.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/p-solid.svg"
 
