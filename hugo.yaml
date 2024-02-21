@@ -49,7 +49,7 @@ Menus:
 
 params:
   title: "Web Portfolio"
-  description: Welcome to my web portfolio. I am a passionate data scientist and economist. I tend to make data more valuable by using my ecmomist knowledge and machine learning skill. I belive that in 21st century data is the most valuable and it can change the world.
+  description: Welcome to my web portfolio. I am a passionate data scientist and economist. I tend to make data more valuable by using my ecmomist knowledge and machine learning skill. I belive that in 21st century data is the most valuable that can change the world.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/p-solid.svg"
 
@@ -187,11 +187,11 @@ params:
           name: "View the project"
           url: "https://example.com"
 
-      - job: "Chanllenge project"
-        company: "Database Disign"
-        companyUrl: "https://example.com"
-        date: "2022"
-        content: "I used to design database systems. For example, I designed a database system for a small business that sells products online. I used MySQL and PHP to create the system."
+      # - job: "Chanllenge project"
+      #   company: "Database Disign"
+      #   companyUrl: "https://example.com"
+      #   date: "2022"
+      #   content: "I used to design database systems. For example, I designed a database system for a small business that sells products online. I used MySQL and PHP to create the system."
 
   # Education
   education:
@@ -199,7 +199,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Bachelor of Science in Economics"
+      - title: "Bachelor of Economics"
         school:
           name: "Thammasat University, Bangkok"
           url: "https://tu.ac.th/en"
@@ -259,18 +259,18 @@ params:
   # projects
   projects:
     enable: true
-    title: "My Projects"
+    title: "My Latest Project"
     items:
       - title: Build Web Portfolio
         content: Build up web Portfolio by using HUGO framework and customizing the theme.
-        image: /images/projects/profile.png
+        image: /images/projects/2024-02-21 212344.png
         featured:
-          name: Souce code
+          name: To the project
           link: https://github.com/PoomTheerapat/Web-Portfolio
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Web Development"
+          - "Web Portfolio"
+          - "HuGo"
         links:
           # - icon: fa fa-envelope
           #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -279,18 +279,19 @@ params:
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: National Quality of working life
+        content: Analyze 'National Job Surveys' with 500k simple data and find insight of the data by python and machine learning.
+        image: /images/projects/2024-02-21 212241.png
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          name: To the project
+          link: https://github.com/PoomTheerapat/National-Job-Survey
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Data Analysis"
+          - "Python"
+          - "Machine Learning"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/PoomTheerapat/National-Job-Survey
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.

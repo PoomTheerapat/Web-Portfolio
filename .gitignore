@@ -1,6 +1,7 @@
 /config.yaml
 /content
-/static/images
+static/images/
+static/
 .vscode
 
 ### Hugo ###
@@ -18,3 +19,5 @@ hugo.linux
 
 # Temporary lock file while building
 .hugo_build.lock
+
+
