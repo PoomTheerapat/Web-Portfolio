@@ -182,17 +182,20 @@ params:
 
           - Collection and analysis of Power Development Plan (PDP plan) of Thai Energy .
           - Created report and prediction about number of Traveler Travel in Thailand.
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+
+      - job: "Analyze Life Job Quality of Informal Worker"
+        company: "National Workers Life Job Policy"
+        companyUrl: "https://github.com/PoomTheerapat/National-Job-Survey"
+        date: "2024 - present"
+        content: "Analyze 'National Job Surveys' with 500k simple data and find insight of the data, and predict the quality of life of informal workers in Thailand by using python and machine learning. Objective is to set the policy for the government to improve the quality of life of informal workers."
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
-
-      # - job: "Chanllenge project"
-      #   company: "Database Disign"
-      #   companyUrl: "https://example.com"
-      #   date: "2022"
-      #   content: "I used to design database systems. For example, I designed a database system for a small business that sells products online. I used MySQL and PHP to create the system."
-
+          url: "https://github.com/PoomTheerapat/National-Job-Survey"
   # Education
   education:
     enable: true
@@ -206,17 +209,18 @@ params:
         date: "2020 - 2024"
         GPA: "3.3 out of 4.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
 
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-            - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-            - Face mask detection using a single convolutional neural network.
+          Enrolled in Economics and MIS
+            - Currently, I'm a third-year student atThammasat University. Economics as a major field of study andManagement Information SystemsMIS) as a minor.
+
+          My career objective in the future
+            - Work with data field.Today, I'm still learning about other hand skills such as machine learning and other analysis tools.
+
         featuredLink:
           enable: true
-          name: "My academic Transcript"
+          name: "Transcript"
           url: "/doc/transcript.pdf"
+          newPage: true
 
       - title: "High School"
         school:
