@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Web Portfolio | Theerapat Ponputta"
+title: "Web Portfolio | PoomTheerapat Ponputta"
 theme: hugo-profile
 
 outputs:
@@ -119,7 +119,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Theerapat Ponputta"
+    title: "PoomTheerapat Ponputta"
     subtitle: " Economist | Data Scientist"
     content: "A passionate data science. I tend to make data more valuable by using my ecmomist knowledge and machine learning skill. I belive that in 21st century data is the most valuable and it can change the world."
     image: /images/bigpng.png
