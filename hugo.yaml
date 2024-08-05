@@ -74,7 +74,7 @@ params:
     # defaultTheme: "light" # dark
 
   font:
-    fontSize: 1rem # default: 1rem
+    fontSize: 1.20rem # default: 1rem
     fontWeight: 400 # default: 400
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
@@ -125,6 +125,8 @@ params:
     image: /images/bigpng.png
     bottomImage:
       enable: true
+
+
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
