@@ -12,7 +12,8 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+pagination:
+  pagerSize: 3
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -154,20 +155,20 @@ params:
     title: "About Me"
     image: "/images/myprofile.png"
     content: |-
-      Currently, 2024. I am a 4th year student at Thammasat University, majoring in Economics and minoring in Information Management Systems. I have a strong interest in technology that can be used to solve real-world problems. I am currently studying more about data science and machine learning.
+      Currently, 2025. I'm a graduate from Thammasat University, majoring in Economics and minoring in Information Management Systems. I have a strong interest in technology that can be used to solve real-world problems. I am currently studying more about data science and machine learning.
 
       I am currently working on a project that will predict the Energy consumption of Thailand using machine learning. later on, You can find about me on my [Medium](https://medium.com/@poomtheerapat) blog.
     skills:
       enable: true
       title: "Here are my hard skill I've been working with:"
       items:
-        - "Python Programming" 
+        - "Python" 
         - "R Programming" 
         - "Data Analysis"
         - "Power BI / Tableau"
         - "Machine Learning"
-        - "HTML, CSS, JavaScript"
-        - "PHP, MySQL"
+        - "Web Development"
+        - "SQL Lite, MySQL"
         - "Git, GitHub"
 
   # Experience
@@ -208,12 +209,12 @@ params:
         school:
           name: "Thammasat University, Bangkok"
           url: "https://tu.ac.th/en"
-        date: "2020 - 2024"
-        GPA: "3.3 out of 4.0"
+        date: "2020 - 2025"
+        GPA: "3.24 out of 4.0"
         content: |-
 
           Enrolled in Economics and MIS
-            - Currently, I'm a third-year student atThammasat University. Economics as a major field of study andManagement Information SystemsMIS) as a minor.
+            - Graduate from Thammasat University. Economics as a major field of study and Management Information Systems (MIS) as a minor.
 
           My career objective in the future
             - Work with data field.Today, I'm still learning about other hand skills such as machine learning and other analysis tools.
