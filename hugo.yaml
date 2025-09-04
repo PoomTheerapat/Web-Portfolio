@@ -132,7 +132,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: /doc/Resume.pdf # "https://example.com"
+      url: /doc/[EN]_PoomTheerapat_Resume.pdf # "https://example.com"
       download: false
       newPage: true
     socialLinks:
@@ -162,13 +162,13 @@ params:
       enable: true
       title: "Here are my hard skill I've been working with:"
       items:
-        - "Python" 
-        - "R Programming" 
-        - "Data Analysis"
+        - "Python, R" 
+        - "C# Programming" 
+        - "Data Analytic"
         - "Power BI / Tableau"
         - "Machine Learning"
         - "Web Development"
-        - "SQL Lite, MySQL"
+        - "SQLite, MySQL"
         - "Git, GitHub"
 
   # Experience
@@ -185,10 +185,10 @@ params:
 
           - Collection and analysis of Power Development Plan (PDP plan) of Thai Energy .
           - Created report and prediction about number of Traveler Travel in Thailand.
-        # featuredLink:
-        #   enable: true
-        #   name: "View the project"
-        #   url: "https://example.com"
+        featuredLink:
+          enable: true
+          name: "View the certificate"
+          url: /images/certificate/Certificate_Internship_PTT_page-0001.jpg
 
       - job: "Analyze Life Job Quality of Informal Worker"
         company: "National Workers Life Job Policy"
@@ -250,18 +250,18 @@ params:
         content: Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2.
         url: https://www.udemy.com/certificate/UC-13e3ae1d-f381-41cb-8e66-671e3540e7f6/
         image: /images/certificate/UC-13e3ae1d-f381-41cb-8e66-671e3540e7f6.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      # - title: Microsoft Imagine Runner
-      #   content: We are developed a product which can help others.
-      # - title: Google Summer of Code
-      #   content: Contributed to a open source project.
-      #   url: https://example.com
+      - title: C# Intermediate Classes, Interfaces and OOP
+        content: An in-depth, step-by-step guide to classes, interfaces and object-oriented programming (OOP) with C#.
+        url: https://www.udemy.com/certificate/UC-068ef102-6fb4-419c-bfd0-4a5c0db35f53/
+        image: /images/certificate/UC-068ef102-6fb4-419c-bfd0-4a5c0db35f53.jpg
+      - title: Business Business Analytics & Intelligence SQL SQL - MySQL for Data Analytics and Business Intelligence
+        content: SQL that will get you hired – SQL for Data Science, Data Engineering, Business Analysis, Marketing, and Data Management
+        url: https://www.udemy.com/certificate/UC-12719f97-c814-4536-a88e-57b36bc82b31/
+        image: /images/certificate/UC-12719f97-c814-4536-a88e-57b36bc82b31.jpg
+      - title: Microsoft Power BI Desktop for Business Intelligence
+        content: Master Power BI Desktop for data prep, data analysis, data visualization & dashboard design w/ top Power BI instructors!
+        url: https://www.udemy.com/certificate/UC-8c4fa973-a188-4aba-8ff5-8e7e6e12b16b/
+        image: /images/certificate/UC-8c4fa973-a188-4aba-8ff5-8e7e6e12b16b.jpg
 
   # projects
   projects:
